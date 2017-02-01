@@ -81,19 +81,19 @@ Teacher and Solutions Architect, Aug 2008 - September 2016
 - Use JQuery and custom JavaScript to enhance front-end with asynchronous AJAX requests
 
 ## Open Source Contributions
-3D Printable Designs - http://www.thingiverse.com/HarlemSquirrel/designs
+**[3D Printable Designs](http://www.thingiverse.com/HarlemSquirrel/designs)**
 
 - Constructed functional and decorative designs with Blender and OpenSCAD
 
-EBA Setup Scripts - https://github.com/HarlemSquirrel/eba-setup-scripts
+**[EBA Setup Scripts ](https://github.com/HarlemSquirrel/eba-setup-scripts)**
 
 - Developed a set of scripts to automate and simplify Linux client deployment and maintenance
 
-GNOME Shell Extensions - https://extensions.gnome.org/accounts/profile/HarlemSquirrel
+**[GNOME Shell Extensions](https://extensions.gnome.org/accounts/profile/HarlemSquirrel)**
 
 - Crafted using GNOME JavaScript
 
-NYC Farmer’s Markets - https://github.com/HarlemSquirrel/nyc-farmers-markets-cli-gem
+**[NYC Farmer’s Markets](https://github.com/HarlemSquirrel/nyc-farmers-markets-cli-gem)**
 
 - Used OpenURI with caching to minimize requests to the API
 - Pulled data from NYC Open Data API
