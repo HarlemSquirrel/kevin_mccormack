@@ -1,4 +1,4 @@
-[917-209-0326](tel:+1-917-209-0326) | [Blog](https://HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
+[917.209.0326](tel:+1-917-209-0326) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
 
 ## About Me
 
