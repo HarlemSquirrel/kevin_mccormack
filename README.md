@@ -1,14 +1,14 @@
- **Software Engineer** | [917-209-0326](tel:+1-917-209-0326) | [Blog](HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
+ **Software Engineer**
 
-[About](#about-me) | [Employment](#employment-history) | [Education](#education) | [Projects](#projects) | [Open Source](#open-source-contributions)
+ [917-209-0326](tel:+1-917-209-0326) | [Blog](HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
 
-
+[About](#about-me) | [Work](#employment-history) | [Ed](#education) | [Projects](#projects) | [Open Source](#open-source-contributions)
 
 ## About Me
 
 I build and deploy web applications using Ruby on Rails, JavaScript, and the best tools available. I translate product team visions into reality through careful planning and execution senior engineers. Through test-driven development and detailed performance monitoring I build out features, deploy, and squash bugs on commercial software to minimize downtime and maximize throughput.
 
-## Employment History
+## Work History
 **Endurance, New York, NY**
 Apprentice Software Engineer, October 2016 - Present
 
