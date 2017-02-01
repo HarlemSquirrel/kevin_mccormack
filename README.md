@@ -1,6 +1,10 @@
-[917-209-0326](tel:+1-917-209-0326) | [Blog](HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
+<a href="#" onclick="window.print();return false;">Print</a>
+
+
+[917-209-0326](tel:+1-917-209-0326) | [Blog](https://HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
 
 [About](#about-me) | [Work](#employment-history) | [Ed](#education) | [Projects](#projects) | [Open Source](#open-source-contributions)
+
 
 ## About Me
 
@@ -91,7 +95,57 @@ Teacher and Solutions Architect, Aug 2008 - September 2016
 
 - Crafted using GNOME JavaScript
 
-**[NYC Farmer’s Markets](https://github.com/HarlemSquirrel/nyc-farmers-markets-cli-gem)**
+**[NYC Farmer’s Markets Ruby CLI Gem](https://github.com/HarlemSquirrel/nyc-farmers-markets-cli-gem)**
 
 - Used OpenURI with caching to minimize requests to the API
 - Pulled data from NYC Open Data API
+
+<style>
+@media print {
+  * {
+    background: transparent !important;
+    color: black !important;
+    text-shadow: none !important;
+    filter: none !important;
+    -ms-filter: none !important;
+  }
+
+  a, a:visited {
+    text-decoration: none;
+  }
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+    content: "";
+  }
+
+  pre, blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+  thead {
+    display: table-header-group;
+  }
+
+  tr, img {
+    page-break-inside: avoid;
+  }
+  img {
+    max-width: 100% !important;
+  }
+  @page {
+    margin: 1cm;
+  }
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2, h3 {
+    page-break-after: avoid;
+  }
+}
+</style>
