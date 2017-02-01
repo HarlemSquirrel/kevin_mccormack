@@ -1,6 +1,4 @@
-### Software Engineer
-
-[917-209-0326](tel:+1-917-209-0326) | [Blog](HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
+ **Software Engineer** | [917-209-0326](tel:+1-917-209-0326) | [Blog](HarlemSquirrel.github.io) | [HarlemSquirrel@gmail.com](mailto:harlemsquirrel@gmail.com)
 
 [About](#about-me) | [Employment](#employment-history) | [Education](#education) | [Projects](#projects) | [Open Source](#open-source-contributions)
 
