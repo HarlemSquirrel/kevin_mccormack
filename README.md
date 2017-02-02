@@ -5,7 +5,7 @@
 ## About Me
 
 <img align="right" src="https://raw.githubusercontent.com/HarlemSquirrel/kevin_mccormack/master/assets/images/me_watkins_glen.jpg" width="150px">
-Since 2016 I have been built, deployed, and maintained full stack web applications. I am proficient with Ruby on Rails and Linux on the server side as well as HTML, CSS (including SCSS), and JavaScript (including jQuery and Angular) on the client-side. Since October 2016 I have been working closely with senior engineers, sales teams, and product teams at [Constant Contact](https://www.constantcontact.com) to monitor and develop an ecosystem of three web apps that advertise on Facebook. I translate product team visions into reality through careful planning and execution with engineering teams. Through test-driven development, automated deployments and detailed performance monitoring I build out features and squash bugs on commercial software to minimize downtime and maximize throughput.
+Since 2016 I have built, deployed, and maintained full stack web applications. I am proficient with Ruby on Rails, Heroku and Linux on the server side as well as HTML, CSS (including SCSS), and JavaScript (including jQuery) on the client side. Since October 2016 I have been working closely with senior engineers, sales teams, and product teams at [Constant Contact](https://www.constantcontact.com) to deploy an ecosystem of three web apps that advertise on Facebook. I translate product team visions into reality through careful feature planning and execution with engineering teams. Through test-driven development, automated deployments and detailed performance monitoring I build out features, monitor performance, and debug commercial software to minimize downtime and maximize throughput.
 
 ## Work History
 **Constant Contact, New York, NY**
@@ -16,7 +16,7 @@ Software Engineer, October 2016 - Present
 - Develop and maintain three Rails apps that advertise on Facebook for small businesses and nonprofits
 - Ensure high code quality with Git, CodeClimate and CircleCI
 - Practice test-driven development with RSpec and Capybara in comprehensive test suites
-- Monitor and debug production apps through Honeybadger and New Relic
+- Deploy, monitor and debug production apps through Heroku, Honeybadger, Jenkins, New Relic, and Splunk
 
 **Flatiron School, New York, NY**
 Learn Expert, May 2016 - October 2016
