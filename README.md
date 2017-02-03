@@ -11,7 +11,7 @@ Since 2016 I have built, deployed, and maintained full stack web applications. I
 **Constant Contact, New York, NY**
 Software Engineer, October 2016 - Present
 
-- Work on a small team of engineers that works closely the sales and product teams
+- Work on a small team of engineers that works closely with the sales and product teams
 - Engage in agile development including team feature planning with Jira
 - Develop and maintain three Rails apps that advertise on Facebook for small businesses and nonprofits
 - Ensure high code quality with Git, CodeClimate and CircleCI
